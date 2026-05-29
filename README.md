@@ -50,5 +50,3 @@ Bu loyiha **Shaxsiy Moliya va Analytics Dashboard** - foydalanuvchilarning kirim
 | React Icons | Ikonkalar |
 | LocalStorage API | Ma'lumotlar saqlash |
 | OpenRouter API | AI yordamchi |
-
-## 📁 Loyiha tuzilishi
